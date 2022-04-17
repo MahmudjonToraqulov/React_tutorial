@@ -2,8 +2,8 @@ import React from 'react'
 
 function Use_effect() {
   return (<>
-    <h1>Use effect</h1>
-    <h2> second change </h2>
+      <h1>Use effect</h1>
+      <hr></hr> 
     </>
   )
 }
