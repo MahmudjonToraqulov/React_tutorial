@@ -4,11 +4,13 @@ import Home from './home'
 import About from './about'
 import Contact from './contact'
 import Error from './error'
+import Navbar from './Navbar'
 
 
 function ReactRouter() {
   return ( 
         <Router>
+            <Navbar />
             <Switch>
                 <Route exact path='/'>
                     <Home />
