@@ -1,4 +1,4 @@
-import React from 'react'
+ 
 
 function Data(props) {
   const products = props.products
